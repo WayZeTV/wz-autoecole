@@ -19,7 +19,7 @@ The name of the resource cannot be changed !
 
 ![screenshot](https://media.discordapp.net/attachments/723280320450920480/748214012390539437/unknown.png?width=903&height=684)
 
-[preview] https://www.youtube.com/watch?v=GxfCXD9Jw-U&feature=youtu.be
+ - [Ressource Preview](https://www.youtube.com/watch?v=GxfCXD9Jw-U&feature=youtu.be) 
 
 # Installation
 - Import `wz-autoecole` in your server base
