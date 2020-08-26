@@ -17,7 +17,7 @@ The name of the resource cannot be changed !
 
 # Screenshot
 
-![screenshot](https://media.discordapp.net/attachments/723280320450920480/728964362475405402/unknown.png?width=704&height=702)
+![screenshot](https://media.discordapp.net/attachments/723280320450920480/748214012390539437/unknown.png?width=903&height=684)
 
  - [ressource preview](https://streamable.com/88vz2t) 
 
