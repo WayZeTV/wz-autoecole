@@ -37,7 +37,7 @@ start Vehicule-Auto-Ecole
 Discord : WayZe#0001 | Youtube : WayZe | Twitter : @WayZeTV
 
 ### License
-wz-autoecole - RageUI Menu
+wz-autoecole - Modification esx_dmvschool
 
 Copyright (C) 2020 WayZe
 
