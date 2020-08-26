@@ -28,8 +28,8 @@ start wz-autoecole
 start Mapping-Auto-Ecole
 start Vehicule-Auto-Ecole
 ```
-Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
-If you need help installing: https://discord.gg/eX9GXWN
+- Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
+- If you need help installing: https://discord.gg/eX9GXWN
 
 # Author 
 Discord : WayZe#0001 | Youtube : WayZe | Twitter : @WayZeTV
